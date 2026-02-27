@@ -10,6 +10,7 @@ public class Demo1Test {
 	
 	{
 		System.out.println("Benz");
+		System.out.println("Audi");
 	}
 	
 	
